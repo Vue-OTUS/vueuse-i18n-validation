@@ -1,0 +1,7 @@
+{
+  "Привет": "Hey {name}",
+  "Профиль": "Profile page",
+  "user": {
+    "greeting": "Hey {name}"
+  }
+}
