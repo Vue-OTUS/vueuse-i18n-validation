@@ -1,0 +1,8 @@
+{
+  "Привет": "Hey {name}",
+  "Профиль": "Profile",
+  "Подтвердите своё согласие": "Give your approve",
+  "Введите ваше имя": "Enter your name",
+  "У вас сообщений": "no messages | one message | {n} messages",
+  "_lang": "English"
+}
